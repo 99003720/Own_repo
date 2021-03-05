@@ -1,0 +1,7 @@
+STM32Fxx_GPIO_Driver.c:24:6:GPIO_Init	24	static
+STM32Fxx_GPIO_Driver.c:65:8:GPIO_PeriClk	16	static
+STM32Fxx_GPIO_Driver.c:118:11:GPIO_ReadfromPort	24	static
+STM32Fxx_GPIO_Driver.c:127:10:GPIO_ReadfromPin	24	static
+STM32Fxx_GPIO_Driver.c:134:7:GPIO_writetoport	16	static
+STM32Fxx_GPIO_Driver.c:139:7:GPIO_writetoPin	16	static
+STM32Fxx_GPIO_Driver.c:150:7:GPIO_Toggle	16	static
